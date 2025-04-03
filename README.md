@@ -1,6 +1,6 @@
-##👋 Olá, eu sou o Guilherme Sales
+## 👋 Olá, eu sou o Guilherme Sales
   
-##💡 Sobre mim
+## 💡 Sobre mim
   Sou um desenvolvedor de sistemas apaixonado por criar soluções inovadoras e eficientes. Tenho experiência com diversas tecnologias e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
 - 🔧 Tecnologias e Ferramentas
